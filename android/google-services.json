@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "573191990434",
+    "firebase_url": "https://selfclub.firebaseio.com",
+    "project_id": "selfclub",
+    "storage_bucket": "selfclub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573191990434:android:b7a7f83c927da928683bfb",
+        "android_client_info": {
+          "package_name": "pe.mosh.selfclub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573191990434-1guk6m3j97kh1cmd2fcluep5stkb9usr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF1wS5tJikI3VCpxCDni4MSwcmGi2XFcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573191990434-1guk6m3j97kh1cmd2fcluep5stkb9usr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
